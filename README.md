@@ -7,7 +7,7 @@ Desarrollar un sistema de gestión de productos para un supermercado que permita
 
 Características Principales:
 
-**Gestión de Inventario:**
++**Gestión de Inventario:**
 
 Registro y actualización de productos con detalles como nombre, código, categoría, precio, y cantidad disponible.
 Funcionalidad para agregar, editar y eliminar productos.
@@ -51,6 +51,8 @@ Mejora en la eficiencia operativa y en la toma de decisiones.
 Incremento en la satisfacción del cliente mediante un manejo más preciso de los productos y servicios.
 
 **Avance de Código**
+> [!NOTE]
+> Sólo es un avance del proyecto
 ```
 using System;
 using System.Collections.Generic;
